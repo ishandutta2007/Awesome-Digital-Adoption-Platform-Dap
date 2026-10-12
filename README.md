@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Adoption-Platform-Dap/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Adoption-Platform-Dap?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Adoption-Platform-Dap/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Adoption-Platform-Dap?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Adoption-Platform-Dap/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Adoption-Platform-Dap?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Adoption-Platform-Dap/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,55 +69,55 @@ The table below provides transparent, verified entry-level pricing tiers, exact 
 
 Curated list of production-ready, open-source libraries, step-by-step tour engines, and onboarding frameworks for building self-hosted digital adoption platforms. Sorted in descending order of GitHub stargazers count:
 
-- **[Driver.js](https://github.com/kamranahmedse/driver.js)** [![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/driver.js?style=social&color=white)](https://github.com/kamranahmedse/driver.js/stargazers)  
+- **[Driver.js](https://github.com/kamranahmedse/driver.js)** [![GitHub_Stars](https://img.shields.io/github/stars/kamranahmedse/driver.js?style=social&color=white)](https://github.com/kamranahmedse/driver.js/stargazers)  
   *License: MIT* | *Zero Dependencies*  
   Lightweight, powerful, vanilla JavaScript engine to spotlight elements, drive user attention, and build interactive feature walkthroughs. Works seamlessly with vanilla JS, React, Vue, Angular, Svelte, and Next.js applications.
 
-- **[Intro.js](https://github.com/usablica/intro.js)** [![GitHub stars](https://img.shields.io/github/stars/usablica/intro.js?style=social&color=white)](https://github.com/usablica/intro.js/stargazers)  
+- **[Intro.js](https://github.com/usablica/intro.js)** [![GitHub_Stars](https://img.shields.io/github/stars/usablica/intro.js?style=social&color=white)](https://github.com/usablica/intro.js/stargazers)  
   *License: AGPL-3.0 / Commercial*  
   The classic step-by-step user tour and onboarding library with rich keyboard navigation, progress bars, responsive hints, and multi-page tour capability.
 
-- **[Shepherd.js](https://github.com/shipshapecode/shepherd)** [![GitHub stars](https://img.shields.io/github/stars/shipshapecode/shepherd?style=social&color=white)](https://github.com/shipshapecode/shepherd/stargazers)  
+- **[Shepherd.js](https://github.com/shipshapecode/shepherd)** [![GitHub_Stars](https://img.shields.io/github/stars/shipshapecode/shepherd?style=social&color=white)](https://github.com/shipshapecode/shepherd/stargazers)  
   *License: MIT*  
   Enterprise-grade, highly accessible guide and tour library powered by Floating UI. Official integrations for React, Vue, Angular, Ember, Svelte, and Rails (`shepherd-rails`). Used in mission-critical applications like LogSeq, Drupal, and Budibase.
 
-- **[React-Joyride](https://github.com/gilbarbara/react-joyride)** [![GitHub stars](https://img.shields.io/github/stars/gilbarbara/react-joyride?style=social&color=white)](https://github.com/gilbarbara/react-joyride/stargazers)  
+- **[React-Joyride](https://github.com/gilbarbara/react-joyride)** [![GitHub_Stars](https://img.shields.io/github/stars/gilbarbara/react-joyride?style=social&color=white)](https://github.com/gilbarbara/react-joyride/stargazers)  
   *License: MIT*  
   The standard guided tour and beacon walkthrough component for React applications. Supports controlled tours, custom tooltips, scrolling automation, spot lighting, and flexible action callbacks.
 
-- **[React-Native-Copilot](https://github.com/mohebifar/react-native-copilot)** [![GitHub stars](https://img.shields.io/github/stars/mohebifar/react-native-copilot?style=social&color=white)](https://github.com/mohebifar/react-native-copilot/stargazers)  
+- **[React-Native-Copilot](https://github.com/mohebifar/react-native-copilot)** [![GitHub_Stars](https://img.shields.io/github/stars/mohebifar/react-native-copilot?style=social&color=white)](https://github.com/mohebifar/react-native-copilot/stargazers)  
   *License: MIT*  
   Step-by-step walkthrough and tooltip tour library for native mobile applications built with React Native (iOS & Android). Features smooth SVG masking, customizable coachmarks, and modal overlays.
 
-- **[Vue Tour](https://github.com/pulsardev/vue-tour)** [![GitHub stars](https://img.shields.io/github/stars/pulsardev/vue-tour?style=social&color=white)](https://github.com/pulsardev/vue-tour/stargazers)  
+- **[Vue Tour](https://github.com/pulsardev/vue-tour)** [![GitHub_Stars](https://img.shields.io/github/stars/pulsardev/vue-tour?style=social&color=white)](https://github.com/pulsardev/vue-tour/stargazers)  
   *License: MIT*  
   Lightweight, customizable guided tour plugin built natively for Vue.js applications. Provides easy declarative tour step composition and custom styling options.
 
-- **[Usertour](https://github.com/usertour/usertour)** [![GitHub stars](https://img.shields.io/github/stars/usertour/usertour?style=social&color=white)](https://github.com/usertour/usertour/stargazers)  
+- **[Usertour](https://github.com/usertour/usertour)** [![GitHub_Stars](https://img.shields.io/github/stars/usertour/usertour?style=social&color=white)](https://github.com/usertour/usertour/stargazers)  
   *License: AGPL-3.0*  
   Full-featured open-source user onboarding platform and self-hosted alternative to Appcues and Userflow. Create in-app product tours, multi-step checklists, feedback surveys, and user segmentation without code.
 
-- **[Reactour](https://github.com/elrumordelaluz/reactour)** [![GitHub stars](https://img.shields.io/github/stars/elrumordelaluz/reactour?style=social&color=white)](https://github.com/elrumordelaluz/reactour/stargazers)  
+- **[Reactour](https://github.com/elrumordelaluz/reactour)** [![GitHub_Stars](https://img.shields.io/github/stars/elrumordelaluz/reactour?style=social&color=white)](https://github.com/elrumordelaluz/reactour/stargazers)  
   *License: MIT*  
   Flexible, composable tour guide components for React applications with smooth SVG masking, customizable controls, keyboard bindings, and route-aware transitions.
 
-- **[Onborda](https://github.com/uixmat/onborda)** [![GitHub stars](https://img.shields.io/github/stars/uixmat/onborda?style=social&color=white)](https://github.com/uixmat/onborda/stargazers)  
+- **[Onborda](https://github.com/uixmat/onborda)** [![GitHub_Stars](https://img.shields.io/github/stars/uixmat/onborda?style=social&color=white)](https://github.com/uixmat/onborda/stargazers)  
   *License: MIT*  
   Modern product onboarding wizard and contextual tour framework designed for Next.js, powered by Framer Motion spring physics with modern UI styling.
 
-- **[Bitmapist](https://github.com/Doist/bitmapist)** [![GitHub stars](https://img.shields.io/github/stars/Doist/bitmapist?style=social&color=white)](https://github.com/Doist/bitmapist/stargazers)  
+- **[Bitmapist](https://github.com/Doist/bitmapist)** [![GitHub_Stars](https://img.shields.io/github/stars/Doist/bitmapist?style=social&color=white)](https://github.com/Doist/bitmapist/stargazers)  
   *License: MIT*  
   High-performance real-time user cohort and feature adoption analytics engine built on Redis bitmaps. Used by Doist (Todoist, Twist) to track feature adoption, retention curves, and lifecycle metrics with 443x memory efficiency.
 
-- **[TourGuide-JS](https://github.com/sjmc11/tourguide-js)** [![GitHub stars](https://img.shields.io/github/stars/sjmc11/tourguide-js?style=social&color=white)](https://github.com/sjmc11/tourguide-js/stargazers)  
+- **[TourGuide-JS](https://github.com/sjmc11/tourguide-js)** [![GitHub_Stars](https://img.shields.io/github/stars/sjmc11/tourguide-js?style=social&color=white)](https://github.com/sjmc11/tourguide-js/stargazers)  
   *License: MIT*  
   Simple, lightweight vanilla JS tour guide and walkthrough library with zero external dependencies, mobile touch compatibility, and custom CSS variables.
 
-- **[Modern Tour](https://github.com/thangdevalone/modern-tour)** [![GitHub stars](https://img.shields.io/github/stars/thangdevalone/modern-tour?style=social&color=white)](https://github.com/thangdevalone/modern-tour/stargazers)  
+- **[Modern Tour](https://github.com/thangdevalone/modern-tour)** [![GitHub_Stars](https://img.shields.io/github/stars/thangdevalone/modern-tour?style=social&color=white)](https://github.com/thangdevalone/modern-tour/stargazers)  
   *License: MIT*  
   Lightweight React product tour library featuring spring physics animations via Framer Motion, dark mode support, and a headless `useTour` hook for custom UI rendering.
 
-- **[OpenTutorial](https://github.com/JeanPaulDot/OpenTutorial)** [![GitHub stars](https://img.shields.io/github/stars/JeanPaulDot/OpenTutorial?style=social&color=white)](https://github.com/JeanPaulDot/OpenTutorial/stargazers)  
+- **[OpenTutorial](https://github.com/JeanPaulDot/OpenTutorial)** [![GitHub_Stars](https://img.shields.io/github/stars/JeanPaulDot/OpenTutorial?style=social&color=white)](https://github.com/JeanPaulDot/OpenTutorial/stargazers)  
   *License: MIT*  
   Spec-driven in-app guidance engine with multi-framework adapters (React, Vue 3, Svelte, Angular, Solid) and built-in dispatchers for event triggers and analytics connectors (PostHog, Mixpanel).
 
